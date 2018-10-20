@@ -1,2 +1,0 @@
-@<?php ?>
-<?php echo "halo"; ?>
